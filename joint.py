@@ -6,7 +6,7 @@ rf = Roboflow(api_key="vNuH3IiQvIqq0fvGssUE")
 
 # Specify the Roboflow projects and model versions
 projects = [
-    {"project_name": "", "model_version":3},
+    # {"project_name": "", "model_version":3},
     {"project_name": "fire-smoke-detection-odvk6", "model_version": 1},
     {"project_name": "gun-knife-thesis", "model_version": 11},
 ]
