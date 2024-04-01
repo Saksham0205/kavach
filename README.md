@@ -2,7 +2,7 @@
 
 ## Unlocking the Power of AI in Crowd Management
 
-![white bg](https://github.com/sanskriti-singh-code/kavach/assets/119859197/4c6f0528-0b45-4907-a680-bc59504485c4 = 100x100)
+<img src="https://github.com/sanskriti-singh-code/kavach/assets/119859197/4c6f0528-0b45-4907-a680-bc59504485c4" alt="white bg" width="200"/>
 
 
 ### Overview
@@ -23,6 +23,5 @@ Kavach is an AI-driven Riot Prediction System designed to detect early signs of 
 5. **Response Coordination:** Law enforcement agencies use the information provided by Kavach to coordinate a timely response and prevent potential riots.
 
 
-### Demo Video
-[![Kavach Demo Video](https://youtube.com/shorts/Ar-1rSkw9bk?feature=shared)
+
 
