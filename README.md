@@ -23,5 +23,18 @@ Kavach is an AI-driven Riot Prediction System designed to detect early signs of 
 5. **Response Coordination:** Law enforcement agencies use the information provided by Kavach to coordinate a timely response and prevent potential riots.
 
 
+### UI of the app
+<div style="display: flex; gap: 150;">
+    <img src="https://github.com/sanskriti-singh-code/kavach/assets/119859197/2d395cd2-20af-45fa-8928-7016070fb08d" alt="Mask group" width="100">
+    <img src="https://github.com/sanskriti-singh-code/kavach/assets/119859197/d62a2d80-b9e3-4158-bc88-f8534e7721da" alt="X - 3" width="100">
+    <img src="https://github.com/sanskriti-singh-code/kavach/assets/119859197/30d01431-5f28-49bc-aed4-a02bc77aea59" alt="Frame 6" width="100">
+    <img src="https://github.com/sanskriti-singh-code/kavach/assets/119859197/8c3e6f2c-35d5-469d-8860-6f396f9afe6b" alt="Frame 13" width="100">
+    <img src="https://github.com/sanskriti-singh-code/kavach/assets/119859197/0e0997aa-736d-4a85-a84e-336ee458aef0" alt="Frame 15" width="100">
+</div>
+
+
+
+
+
 
 
